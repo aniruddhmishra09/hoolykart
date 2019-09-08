@@ -1,4 +1,4 @@
-package com.hoolykart.usermgmt;
+package com.hoolykart.usermanagement;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
